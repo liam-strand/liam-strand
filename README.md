@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](/assets/obi-wan.gif)
 
 
