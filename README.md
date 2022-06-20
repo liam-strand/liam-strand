@@ -1,7 +1,4 @@
 ![](/assets/obi-wan.gif)
-
-
-(Obi-Wan was the nickname assigned to me at birth by my brother)
 <!--
 **liam-strand/liam-strand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
