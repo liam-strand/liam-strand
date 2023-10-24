@@ -4,7 +4,7 @@ Hello! Welcome to my GitHub page. Feel free to poke around and see some of the p
 
 Not sure where to start? Pick one of the following repositories:
 
-* For generalization through client/server models and inter-process communication in Python, take a look at the [MEDFORD Language Server](https://github.com/liam-strand/medford-language-server)
+* For generalization through client/server models and inter-process communication in Python, take a look at the [MEDFORD Language Server](https://github.com/TuftsBCB/medford-language-server)
 * For profiled high-performance projects in C interacting with computer architecture, explore my work for [COMP 40](https://github.com/liam-strand/comp40): Machine Structure and Assembly Language Programming
 * For concurrency and process management in Erlang, try my [final project](https://github.com/liam-strand/cs-21-final-project) for CS 21: Concurrent Programming
 * For iOS development in Swift, with remote database management and persistant local storage, see [Log Your Catch](https://github.com/bstrand42/Log-Your-Catch)
