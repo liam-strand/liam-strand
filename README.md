@@ -1,5 +1,3 @@
-![](/assets/obi-wan.gif)
-
 Hello! Welcome to my GitHub page. Feel free to poke around and see some of the projects I've been working on.
 
 Not sure where to start? Pick one of the following repositories:
