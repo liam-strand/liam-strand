@@ -4,9 +4,9 @@ I recently finished my MS in Computer Science at Northwestern, and I'm starting 
 
 Not sure where to start? Pick one of the following repositories:
 
-* For eBPF, Linux performance counters, and systems programming in Rust, take a look at [saccade](https://github.com/liam-strand/saccade), a profiler that rotates hardware counter slots across quanta to estimate rates for more events than the PMU can measure at once
+* For eBPF, Linux performance counters, and systems programming in Rust, take a look at [saccade](https://github.com/liam-strand/saccade), a profiler that rotates hardware counter slots across quanta to estimate rates for more events than the PMU can measure at once, and the subject of [my thesis](https://liam-strand.github.io/thesis/paper.pdf)
 * For internet measurement and geospatial analysis in Rust, explore [ripe_lhls](https://github.com/liam-strand/ripe_lhls), which combines RIPE Atlas latency data, submarine cable topology, and speed-of-light constraints to bound where an IP address really is
-* For compilers and hardware synthesis, read [Village Synthesis](https://github.com/liam-strand/cs446-paper), my work on compiling the nested data-parallel language NESL to FPGA hardware by mapping dataflow graphs onto Chisel functional units
+* For hardware synthesis and nested data parallelism, read [Village Synthesis](https://liam-strand.github.io/cs446-paper/paper.pdf), my work on turning NESL programs into FPGA accelerators by mapping dataflow graphs onto Chisel functional units
 
 Some earlier work from my time at Tufts:
 
